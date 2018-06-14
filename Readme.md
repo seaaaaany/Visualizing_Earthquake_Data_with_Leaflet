@@ -31,4 +31,4 @@ In this project, I've visualized earthquakes occuring globally using a libe API 
 </ul>
 
 ## User Interface
-![img](images/web_site_screen_shot.png)
+![img](Images/web_site_screen_shot.png)
