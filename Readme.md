@@ -1,5 +1,5 @@
 <h1 align="center"> Visualizing Earthquake Data with Leaflet</h1> 
-<p align="center"> You can click <a href="https://yycyjqc.github.io/Visualizing_Earthquake_Data_with_Leaflet/">here</a> to access the web application.</p>
+<p align="center"> You can click <a href="https://seaaaaany.github.io/Visualizing_Earthquake_Data_with_Leaflet/">here</a> to access the web application.</p>
 
 <p align="center">
   <a href="#background">Background</a> •
